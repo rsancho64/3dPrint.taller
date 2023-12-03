@@ -1,15 +1,26 @@
 ---
+
 # title: # 3dPrint.cursito
-# subtitle: Tallercito de impresión 3D en el IES Rio Arba.
+
+# subtitle: Tallercito de impresión 3D en el IES Rio Arba
+
 # date: Diciembre 2023
+
 # toc: true
+
 ---ssh key: /.ssh/id_rsa (press 'Enter' to confirm or 'Escape' to cancel)
+
+## setup ubuntu Cura :: Ender3
+
+- En unbuntu 23 parece que :/ but i try ...
+- download appimage; chmod +x; 
+- 
 
 ## La fabricación aditiva es ?
 
-- Nuestro ámbito de fabricación: 
- 
-  - *la mayoria de* **piezas**/elementos/estructuras **solidas** 
+- Nuestro ámbito de fabricación:
+
+  - *la mayoria de* **piezas**/elementos/estructuras **solidas**
     - (no: textiles, quimicos, ...  )
 
 - La fabricación clásica es *sustractiva*:
@@ -87,7 +98,7 @@ Unlike CAD formats, STL:
 
 ### cambios de formato ... import export ?
 
-[see](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual) 
+[see](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual)
 
 #### Repositorios online
 
