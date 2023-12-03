@@ -74,6 +74,8 @@ Def: ***renderizar***: representar el modelo en la pantalla ...
 
 ### Formatos CAD
 
+[openscad intro](https://computationalmodelling.bitbucket.io/tools/CSG.html)
+
 ### Formatos de superficie. STL
 
 STL: ***STereoLithography***: the standard file format in 3D printing.
