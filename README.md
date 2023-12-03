@@ -48,8 +48,6 @@ Se trata de construir objetos 3d con el menor mecanizado posible
 - Materiales
 - Materiales en impresion 3D "doméstica"
 
-```
-
 ## Ciclo de produción
 
 ## Modelo 3D: que es -o puede ser-
@@ -84,6 +82,10 @@ Unlike CAD formats, STL:
 
 - *only* defines the **surface geometry** of 3D data
 - *and not* color or texture (tend to be smaller)
+
+### cambios de formato ... import export ?
+
+[see](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual) 
 
 #### Repositorios online
 
