@@ -1,21 +1,26 @@
 ---
-title: # 3dPrint.cursito
-subtitle: Tallercito de impresión 3D en el IES Rio Arba.
-date: Diciembre 2023
-toc: true
+# title: # 3dPrint.cursito
+# subtitle: Tallercito de impresión 3D en el IES Rio Arba.
+# date: Diciembre 2023
+# toc: true
 ---ssh key: /.ssh/id_rsa (press 'Enter' to confirm or 'Escape' to cancel)
 
 ## La fabricación aditiva es ?
 
-- Fabricación sustractiva:
+- Nuestro ámbito de fabricación: 
+ 
+  - *la mayoria de* **piezas**/elementos/estructuras **solidas** 
+    - (no: textiles, quimicos, ...  )
 
-  - bruto disgregable 🠊
+- La fabricación clásica es *sustractiva*:
+
+  - bruto disgregable (materia prima) 🠊
     - pieza *desbastada/ajustada* +
     - deshecho (recorte/viruta)
 
 Por oposicion:
 
-- Fabricación aditiva
+- Fabricación aditiva:
 
   - bruto agregable 🠊
     - pieza *agregada* +
