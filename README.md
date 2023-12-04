@@ -15,7 +15,15 @@
 - En unbuntu 23 parece que :/ but i try ...
 - download appimage; chmod +x; 
 - howto [fix usb](https://askubuntu.com/questions/1066150/ubuntu-usb-to-serial-device-connection-problem) connection: vampire: brltty
-- 
+
+  Instead of removing it, you can disable it:
+
+  ```bash
+  systemctl stop brltty-udev.service
+  sudo systemctl mask brltty-udev.service
+  systemctl stop brltty.service
+  systemctl disable brltty.service
+  ```
 
 ## La fabricación aditiva es ?
 
