@@ -1,19 +1,34 @@
 ---
-
-# title: # 3dPrint.cursito
-
-# subtitle: Tallercito de impresión 3D en el IES Rio Arba
-
-# date: Diciembre 2023
-
+# https://github.com/alexeygumirov/pandoc-beamer-how-to
+# title: "My wonderful presentation"
+# author: "Alexey Gumirov"
+# institute: "My home office"
+# topic: "Pandoc how-to"
+# theme: "Frankfurt"
+# colortheme: "beaver"
+# fonttheme: "professionalfonts"
+# mainfont: "Hack Nerd Font"
+# fontsize: 10pt
+# urlcolor: red
+# linkstyle: bold
+# aspectratio: 169
+# titlegraphic: img/aleph0.png
+# logo: img/aleph0-small.png
+# date:
+# lang: en-US
+# section-titles: false
 # toc: true
-
----ssh key: /.ssh/id_rsa (press 'Enter' to confirm or 'Escape' to cancel)
+## 
+# title: # 3dPrint.cursito
+# subtitle: Tallercito de impresión 3D en el IES Rio Arba
+# date: Diciembre 2023
+# toc: true
+---
 
 ## setup ubuntu Cura :: Ender3
 
 - En unbuntu 23 parece que :/ but i try ...
-- download appimage; chmod +x; 
+- download appimage; chmod +x;
 - howto [fix usb](https://askubuntu.com/questions/1066150/ubuntu-usb-to-serial-device-connection-problem) connection: vampire: brltty
 
   Instead of removing it, you can disable it:
@@ -61,28 +76,33 @@ Control numérico clásico ¿que es?
 - [grabado/corte laser](https://www.youtube.com/watch?v=3lLfXX9Xu-0)
 - [construccion](https://www.youtube.com/watch?v=vL2KoMNzGTo)
 - [fabricacion metálica](https://youtu.be/kMsCl02uMco?t=140) (se ven **giros de pieza**)
-- [fundición/joyeria](https://www.youtube.com/watch?v=AgFU6SueFO8)(se ven bien **los soportes**)
+- [fundición/joyeria](https://www.youtube.com/watch?v=AgFU6SueFO8)(**resina** y **soportes**)
 - [metal casting](https://www.youtube.com/watch?v=w1YF47-8iro) 
 
-- Aspectos fisicos de la impresion
-  - Deposicion =>
-    - caudal ,, ajuste de presion y temperatura en el extrusor.
-    - velocidad (del movimiento del cabezal (extrusor))
-    - proximidad (grado de adherencia)
-    - estabilidad: la gravedad ...
+- Aspectos fisicos de la impresion: *parametros, parametros...*
+  - Deposicion 🠊
+    - *caudal* ,, ajuste de presion y temperatura en el extrusor.
+    - *velocidad* (del movimiento del cabezal (extrusor))
+    - *proximidad* (grado de adherencia)
+    - *estabilidad*: la gravedad ...
       - soportes (crecimiento vertical)
       - giros de pieza (más de 4 grados ...)
 
-- Ámbitos
-- Materiales
 - Materiales en impresion 3D "doméstica"
+
+  - **PLA** (esasy), problema: se hidrata.
+  - **ABS**. mejores acabados, no hidrata, pero más temp. ... requisitos de ventilación...
+  - resinas
 
 ## Ciclo de produción
 
 ## Modelo 3D: que es -o puede ser-
 
-La mayoría de *formatos* 3D pueden contener **muchos tipos de medios**,
-en una progresión de detalles que globalmente es:
+Hay *formatos 3D* que pueden contener **muchos tipos de medios** ...
+
+- [ ] abrir blender ...
+
+... en una progresión de detalles que globalmente es:
 
 - Modelos 3D (en puridad del término)
 - Colores (para las superficies)(caras)
@@ -120,8 +140,14 @@ Unlike CAD formats, STL:
 
 #### Repositorios online
 
-[**toplist here**](https://www.3devo.com/blog/top-10-sites-for-free-3d-stl-files)
+Los hay a patadas  ... [**toplist here**](https://www.3devo.com/blog/top-10-sites-for-free-3d-stl-files) ... peero
 
-pero basta indicar bien una idea: ejemplo
+Suele Bastar indicar bien la idea que se busca: ejemplo
 
 **goo**: `dark vader stl`
+
+🠊 [jugete para Ruben](https://www.youtube.com/watch?v=8P2rBysBHL8)
+- [instrucciones](https://www.instructables.com/Darth-2-a-3D-Printed-Animated-Darth-Vader-Helmet/)
+
+Y para San Valentin, [**este**](https://www.myminifactory.com/object/3d-print-a-3d-printed-animated-valentine-heart-for-my-valentine-151641)
+
