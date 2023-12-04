@@ -14,6 +14,7 @@
 
 - En unbuntu 23 parece que :/ but i try ...
 - download appimage; chmod +x; 
+- howto [fix usb](https://askubuntu.com/questions/1066150/ubuntu-usb-to-serial-device-connection-problem) connection: vampire: brltty
 - 
 
 ## La fabricación aditiva es ?
