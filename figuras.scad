@@ -7,7 +7,7 @@ _x=20;
 _y=20;
 _z=20;
 
-//color("green",0.6) // color, ºtransparencia)
+//color("green",0.6) // color, ºopacidad)
 //cube(size = [_x,_y,_z]);
 
 //color("red",0.3) 
@@ -17,7 +17,7 @@ _r=10;
 //circle(r=_r/2);
 //circle(d=2*_r);  // no se ve ??
 
-//color("green",0.6) // color, ºtransparencia)
+//color("green",0.6)
 //circle(d=2*_r);  // no se ve
 
 // manual: https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/CSG_Modelling#difference
