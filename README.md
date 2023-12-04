@@ -50,19 +50,28 @@ Se trata de construir objetos 3d con el menor mecanizado posible
 
 ### Definiciones
 
-### Ejemplos -contemplación-
+### Conceptos y ejemplos: contemplación
 
-  construccion
-  fabricacion
-  casting (fundición/joyeria)
-  
-- [metal casting](https://www.youtube.com/watch?v=w1YF47-8iro)
+Control numérico clásico ¿que es?
+
+1. ***cabezales portaherramientas moviendose en pasadas*** (la eyección vino depes)
+2. **G-CODE** explicado [**aqui**](https://www.luisllamas.es/que-es-el-g-code-y-su-importancia-en-la-impresion-3d/)
+
+- [madera](https://www.youtube.com/watch?v=8LLUUgVRzLo)
+- [grabado/corte laser](https://www.youtube.com/watch?v=3lLfXX9Xu-0)
+- [construccion](https://www.youtube.com/watch?v=vL2KoMNzGTo)
+- [fabricacion metálica](https://youtu.be/kMsCl02uMco?t=140) (se ven **giros de pieza**)
+- [fundición/joyeria](https://www.youtube.com/watch?v=AgFU6SueFO8)(se ven bien **los soportes**)
+- [metal casting](https://www.youtube.com/watch?v=w1YF47-8iro) 
 
 - Aspectos fisicos de la impresion
   - Deposicion =>
-    - Ratio caudal/velocidad +
-    - Grado de adherencia +
-    - Estabilidad por gravedad
+    - caudal ,, ajuste de presion y temperatura en el extrusor.
+    - velocidad (del movimiento del cabezal (extrusor))
+    - proximidad (grado de adherencia)
+    - estabilidad: la gravedad ...
+      - soportes (crecimiento vertical)
+      - giros de pieza (más de 4 grados ...)
 
 - Ámbitos
 - Materiales
