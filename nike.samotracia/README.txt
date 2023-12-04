@@ -1,0 +1,1 @@
+Winged Victory of Samothrace (Easier printing with very minimal supports) by awesome3dgeek on Thingiverse: https://www.thingiverse.com/thing:3100165
