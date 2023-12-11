@@ -69,7 +69,7 @@ Se trata de construir objetos 3d con el menor mecanizado posible
 
 Control numérico clásico ¿que es?
 
-1. ***cabezales portaherramientas moviendose en pasadas*** (la eyección vino depes)
+1. ***cabezales portaherramientas moviendose en pasadas*** (la eyección vino después)
 2. **G-CODE** explicado [**aqui**](https://www.luisllamas.es/que-es-el-g-code-y-su-importancia-en-la-impresion-3d/)
 
 - [madera](https://www.youtube.com/watch?v=8LLUUgVRzLo)
@@ -100,14 +100,12 @@ Control numérico clásico ¿que es?
 
 Hay *formatos 3D* que pueden contener **muchos tipos de medios** ...
 
-- [ ] abrir blender ...
+- [X] abrir blender ..  en detalles cuya progresión global es:
 
-... en una progresión de detalles que globalmente es:
-
-- Modelos 3D (en puridad del término)
-- Colores (para las superficies)(caras)
-- Texturas (para las caras)
-- Cámaras, luces, imágenes, vídeos (proyectados en las superficies)
+- modelos 3D (en puridad del término)
+- colores (para las superficies)(caras)
+- texturas (para las caras)
+- cámaras, luces, imágenes, vídeos (proyectados en las superficies)
 
 Def: ***renderizar***: representar el modelo en la pantalla ...
 
